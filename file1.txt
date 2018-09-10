@@ -1,5 +1,5 @@
 file 1 initial
-second line
+second line is the second line
 third line
 fourth and fifth line
 fifth line
